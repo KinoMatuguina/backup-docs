@@ -1,0 +1,280 @@
+Tuesday APRIL 10 2018
+
+10:00 - 1:30  = customer update stepper
+2:30 - 4:20 = footer action buttons (maker and checker)
+4:20 - 5:10 = BR basic implementation black listed (no endpoint)
+5:10 - 6:00 = BR for address and sss, gsis, tin and reason for no tin
+6:00 - 6:20 = get all endpoints on ao
+6:20 - 8:20 = checking stack trace.
+
+Wed APRIL 11 2018
+
+10:00 - 2:00  = investigating out of memory with sir john
+3:00 - 5:00 = develop gc stats heapdump creator
+5:00 - 7:00 = customer update photo id camera
+7:00 - 9:00 = customer update maker integration
+9:00 - 10:30 = status meeting
+10:30 - 12:30 = customer update find by refno itegration
+12:30 - 1:20 = submit button initial integration
+1:25 - 2:00 = fatca initial integration
+
+Thur April  12 2018
+
+10:00 - 11:00 = investigating out of memory with sir carlo & delegate task to other front end dev's
+11:00 - 2:15 = customer update integration of submit
+
+Fri April 13 2018
+
+10:00 - 12:00 = customer update integration of next
+1:00 - 6:00 = new implementation of saving process in front end
+6:00 - 7:00 = add action on confirmation page
+7:00 - 8:00 = initial implem for save for later
+8:00 - 1:36 = validations and save for later bug fixing
+
+Sat April 14 2018
+
+12:00 - 11:00 = customer update maker integration
+11:00 - 2:00 = customer update maker bug fixing
+11:00 - 7:30 = QA Support
+
+
+Mon April 16
+
+Customer update implementation Maker
+
+
+Mon April 17
+
+Customer update implementation Maker
+
+Mon April 18
+
+Customer update implementation Maker
+
+
+Mon April 19
+
+Customer update implementation Checker
+
+
+Mon April 20
+
+Customer update implementation Checker
+
+April 21
+
+Checker final implementation customer update - 4
+Edd check list implementation - 2
+add active parent step for checker preview - 2
+Edd implementation - 4
+
+April 23
+Acknoledgement fixes - 1
+Camera fixes - 2 
+fatca fixes - 2
+Confirmation fixes - 2
+QA Support - 12
+
+
+April 24 - 13
+BR implementation of nationality - 1
+RiskClassification highligh - 1
+Customer update old photo preview details - 2
+Disable field when nationality is PH address form - 1
+Fatca color indetifier and implementation to all user preview and confirmation - 1
+Fixes for app js content manipulation - 2
+Qa Support - 5
+
+April 25 - 10
+QA Support - 2
+SIT Support - 2 
+Remove default value of risk score - 1
+Add riskscore identifier and implementation to all user preview and confirmation - 1
+checker preview add risk score identifier and fix submitted id bug - 1
+remove cancel function on checker and change label from cancel to close - 3
+
+April 26 - 15
+SIT Support - 14
+Dialog for close on checker view - 1
+
+
+April 27 - 10
+SIT Support - 9
+remove validation on when PH Nationality -1
+
+
+April 30
+Fatca riskscore color
+Add risk score changes indentifier 
+Customer update stepper number
+Old and new initial implementation
+SIT Support
+
+
+APRIL 2
+uncomment ndv
+
+April 3
+67815
+fix tranreview
+remove error on search
+
+
+April 7
+SIT Support
+finding memory leak prod version (react-unitas-main)
+react unitas main initial code for hot fix memory leak
+finding memory leak prod version (react-unitas-login)
+react unitas login initial code for hot fix memory leak
+finding memory leak prod version (react-unitas-dashboard)
+react unitas dashboard initial code for hot fix memory leak
+impediments on backend for fixes of the memory leak
+67845
+
+
+April 8
+finding memory leak prod version (react-unitas-inquiry)
+react unitas inquiry initial code for hot fix memory leak
+finding memory leak prod version (react-unitas-pco)
+react unitas pco initial code for hot fix memory leak
+impediments on backend for fixes of the memory leak
+
+
+April 9
+SIT Support (morning)
+EOL Fixes.
+role base url
+impediments on backend for fixes of the memory leak
+
+April 10
+SIT Support (morning)
+Investigate the lock on checker (maybe cause by slowdown)
+Meeting with mam yael
+Meeting with mam april
+impediments on backend for fixes of the memory leak
+
+April 11
+SIT Support (morning)
+Investigate autocomplete issue
+investigate prod issue
+impediments on backend for fixes of the memory leak
+check logs on prod issue
+
+
+April 14
+Holiday
+
+April 15
+SIT Support (Morning)
+impediments on backend for fixes of the memory leak
+Investigate internal server error on sit (`could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement`)
+
+
+April 16
+SIT Support
+Memory leak fixes
+
+
+April 17
+SIT Support
+Memory Leak fixes
+
+
+April 18
+SIT Support
+Fix jmeter script . add think time per children
+investigate internal server error on sit already email with the backend guys
+investigate the auto logout of the react-unitas-upd
+fix the auto logout issue
+impediments error on the service
+prod version
+
+
+
+April 21
+Sick Leave
+
+
+April 22
+SIT Support
+Redis investigation.
+Redis password implementation.
+
+
+April 23
+SIT Support
+Turn over
+
+MAY 24-25-28 VACATION LEAVE
+
+MAY 29
+Turn over
+UAT SUPPORT
+Support for the inquiry not complete data
+
+MAY 30
+Research on checking file if ready.
+Investigate uat issue (could not execute query; nested exception is org.hibernate.exception.GenericJDBCException).
+team lunch 11 - 3.
+print js not found added validation try access the file.
+
+
+May 31
+Print js not found continue
+Investigate invalid date
+Investigate product selection error
+
+June 1
+Vacation Leave
+
+June 4
+Uat Support
+Investigate bundle error
+Fixing bundle error
+
+June 5
+Uat Support
+Uat Support for the add product and customer update
+
+June 6
+Edd color error
+remove ndv on find transaction by refNo (Investigated) 
+
+
+June 7
+PDF JS implementation
+
+June 8
+70083
+69295 (investigate)
+
+June 11
+69295 (remove conditions on customer update)
+69698 (investigate submit to abd issue)
+
+June 12
+HOLIDAY
+
+June 13
+UAT Support
+
+June 14
+To office fix the clearance and other stuff
+
+June 15
+Holiday
+
+June 18
+EL
+
+June 19
+UAT Support
+70462 ( implement new endpoint for checker and maker.
+
+June 20
+UAT Support
+Turn over
+
+June 21
+UAT Support
+Turn over
